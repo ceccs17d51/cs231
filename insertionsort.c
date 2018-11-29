@@ -25,3 +25,11 @@ int main()
 		printf("%d ",array[i]);
         return 0;
 }
+ OUTPUT
+ Enter number of elements5
+Enter elements: 4
+3
+2
+9
+6
+sorted order: 2 3 4 6 9
