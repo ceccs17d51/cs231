@@ -58,3 +58,55 @@ int main() {
 		}
 	} while (ans != '4');
 }
+output
+	Stack Using array
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice : 5
+Invalid choice.
+
+
+	Stack Using array
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice : 6
+Invalid choice.
+
+
+	Stack Using array
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice : 7
+Invalid choice.
+
+
+	Stack Using array
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice : 3
+
+
+Stack contents
+3
+
+
+
+	Stack Using array
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice : 4
+Invalid choice.
+]0;user@user-Inspiron-15-3567: ~/Desktop/a[01;32muser@user-Inspiron-15-3567[00m:[01;34m~/Desktop/a[00m$ exit
+exit
+
+Script done on 2018-11-29 23:04:43+0530
