@@ -54,3 +54,20 @@ void main()
     for (i = 0; i < n; i++)
 	printf("\n %d", heap[i]);
 }
+OUTPUT
+ Enter no of elements :4
+
+ Enter the nos : 4
+7
+2
+6
+Heap array : 7
+ 6
+ 2
+ 4
+ 
+ sorted array 
+ 2
+ 4
+ 6
+ 7
