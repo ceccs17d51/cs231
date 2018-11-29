@@ -23,6 +23,15 @@ int main()
 	}
 	return 0;
 }
+OUTPUT
+Enter no of numbers:5
+enter the elements3
+5
+7
+1
+3
+Enter the number to be searched:1
+key is found at 4
 
 
 
