@@ -83,3 +83,6 @@ int main() {
   }
   printf("Final result : %d\n", operandStack[0]);
 }
+ OUTPUT
+Enter the infix expression : 2+3*4
+Final result : 14
