@@ -52,3 +52,18 @@ int main() {
     printf("\nSorted Array\n");
     printArray(a, size);
 }
+OUTPUT
+Enter size of the array : 5
+Enter array
+8
+4
+1
+6
+3
+
+Sorted Array
+1
+3
+4
+6
+8
