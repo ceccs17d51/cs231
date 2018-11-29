@@ -44,3 +44,12 @@ int main()
 		printf("%d ",a[i]);
 	return 0;
 }
+ Output
+ enter the number of elements : 5
+enter elements3
+
+7
+4
+2
+9
+sorted array2 3 4 7 9 
