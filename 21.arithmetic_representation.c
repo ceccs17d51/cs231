@@ -37,3 +37,7 @@ void main()
         temp=temp->link;
     }    
 }
+ OUTPUT
+ Enter the infix form: 3*4\15+4
+ 4 -> + -> 5 -> 1 -> \ -> 4 -> * -> 3 ->]0;
+exit
