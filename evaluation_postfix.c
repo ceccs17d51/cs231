@@ -62,3 +62,8 @@ int main()
         return 0;
  
 }
+ OUTPUT
+ Enter the expression :: 23*5+
+
+The result of expression 23*5+  =  11
+
