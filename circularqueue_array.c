@@ -1,3 +1,7 @@
+
+//Surya Merin Philip
+//S3D
+//51
 #include<stdio.h>
 #include<string.h>
 
