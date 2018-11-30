@@ -1,3 +1,7 @@
+
+//Surya Merin Philip
+//S3D
+//51
 #include <stdio.h>
 
 int merge(int a[], int l, int m, int r) {
