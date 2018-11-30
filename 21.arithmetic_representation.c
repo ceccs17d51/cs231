@@ -1,3 +1,6 @@
+//Surya Merin Philip
+//S3D
+//51
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
@@ -38,6 +41,6 @@ void main()
     }    
 }
  OUTPUT
- Enter the infix form: 3*4\15+4
- 4 -> + -> 5 -> 1 -> \ -> 4 -> * -> 3 ->]0;
+ Enter the infix form: 3*4\5+4
+ 4 -> + -> 5 -> \ -> 4 -> * -> 3 ->]0;
 exit
