@@ -1,3 +1,6 @@
+//Surya Merin Philip
+//S3D
+//51
 #include<stdio.h>
 int stack[20];
 int top = -1;
