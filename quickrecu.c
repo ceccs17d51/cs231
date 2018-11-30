@@ -54,3 +54,11 @@ int partition(int a[],int l,int u)
     return(j);
 }
 OUTPUT
+Enter the elements:4
+
+Enter array elements:3
+2
+9
+1
+
+Array after sorting:1 2 3 9
