@@ -1,3 +1,7 @@
+
+//Surya Merin Philip
+//S3D
+//51
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -64,3 +68,43 @@ void main()
         }
     }while(cho==1 || cho==2 || cho==3);
 }
+OUTPUT
+MENU
+1.Insertion
+2.Deletion
+3.Display
+Enter choice: 1
+Enter element: 4
+
+MENU
+1.Insertion
+2.Deletion
+3.Display
+Enter choice: 1
+Enter element: 7
+
+MENU
+1.Insertion
+2.Deletion
+3.Display
+Enter choice: 1
+Enter element: 4 2
+
+MENU
+1.Insertion
+2.Deletion
+3.Display
+Enter choice: 2
+
+DELETED 4 
+MENU
+1.Insertion
+2.Deletion
+3.Display
+Enter choice: 3
+7 <-2 <- NULL
+MENU
+1.Insertion
+2.Deletion
+3.Display
+Enter choice: 8
