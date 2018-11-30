@@ -93,3 +93,6 @@ void main()
     postfix(top_op,head_op);
     printf("%s",post);
 }
+OUTPUT
+enter the infix form: (3*6/1     (3*6)+1)
+36*1+
