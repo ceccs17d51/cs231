@@ -1,3 +1,6 @@
+//SuryaMerin Philip
+//S3D
+//51
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -66,8 +69,7 @@ void insertion()
     }    
 }
 
-void printnode(struct node *ptr)            //recursive function to display tree in postfix form
-{
+void printnode(struct node *ptr)            
     if(ptr->lchild!=NULL)
     {
         printnode(ptr->lchild);
@@ -89,7 +91,7 @@ void display()
     else
     {
         printf("\nTREE(in postfix form)\n");
-        printnode(header->rchild);            //displays tree in postfix form
+        printnode(header->rchild);          
     }
 }
 
@@ -160,8 +162,8 @@ void deletenode(struct node *ptr,struct node *ptr1)
                 temp->rchild=ptr->rchild;
                 free(ptr);
             }
-        }
-        else                 //else if(ptr1->rchild==ptr)
+        }//else if(
+        else                
         {
             if(temp1==ptr)
             {
@@ -207,7 +209,7 @@ void deletion()
                 ptr1=ptr;
                 ptr=ptr->rchild;
             }
-            else                      //else if(d==ptr->data)
+            else                     
             {
                 deletenode(ptr,ptr1);
                 ptr=NULL;
@@ -247,3 +249,74 @@ void main()
         }
     }while(cho==1||cho==2||cho==3);
 }
+OUTPUT
+MENU
+1.Insertion
+2.Deletion
+3.Display
+4.Exit
+Enter Choice: 1
+
+Enter data: 3
+
+MENU
+1.Insertion
+2.Deletion
+3.Display
+4.Exit
+Enter Choice: 1
+
+Enter data: 5
+
+MENU
+1.Insertion
+2.Deletion
+3.Display
+4.Exit
+Enter Choice: 2
+Enter Data: 3
+
+MENU
+1.Insertion
+2.Deletion
+3.Display
+4.Exit
+Enter Choice: 1
+
+Enter data: 4
+
+MENU
+1.Insertion
+2.Deletion
+3.Display
+4.Exit
+Enter Choice: 2
+Enter Data: 
+7
+
+Element not Found
+
+MENU
+1.Insertion
+2.Deletion
+3.Display
+4.Exit
+Enter Choice: 1
+
+Enter data: 9
+
+MENU
+1.Insertion
+2.Deletion
+3.Display
+4.Exit
+Enter Choice: 3
+
+TREE(in postfix form)
+4 9 5 
+MENU
+1.Insertion
+2.Deletion
+3.Display
+4.Exit
+Enter Choice: 4
