@@ -1,3 +1,6 @@
+//SuryaMerin Philip
+//S3D
+//51
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -97,3 +100,60 @@ void main()
         }
     }while(choice==1 || choice==2 || choice==3);
 }
+MENU
+1.Insert
+2.Delete
+3.Display
+4.Exit
+Enter Choice: 1
+Enter element: 4
+
+
+MENU
+1.Insert
+2.Delete
+3.Display
+4.Exit
+Enter Choice: 1
+Enter element: 6
+
+
+MENU
+1.Insert
+2.Delete
+3.Display
+4.Exit
+Enter Choice: 1
+Enter element: 8
+
+
+MENU
+1.Insert
+2.Delete
+3.Display
+4.Exit
+Enter Choice: 3
+4 <-6 <-8 <-4
+
+MENU
+1.Insert
+2.Delete
+3.Display
+4.Exit
+Enter Choice: 2
+
+
+MENU
+1.Insert
+2.Delete
+3.Display
+4.Exit
+Enter Choice: 3
+6 <-8 <-6
+
+MENU
+1.Insert
+2.Delete
+3.Display
+4.Exit
+Enter Choice: 4
