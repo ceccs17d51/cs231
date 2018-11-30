@@ -1,3 +1,6 @@
+//Surya Merin Philip
+//S3D
+//51
 #include<stdio.h>
 
 int quick(int a[],int l,int h){
@@ -53,3 +56,10 @@ int main(){
 	printf("\n");
 	return 0;
 }
+OUTPUT
+enter the no of elements:3 4
+enter the elements6
+1
+9
+6
+1 6 6 9 
