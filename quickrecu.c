@@ -1,3 +1,6 @@
+//Surya Merin Philip
+//S3D
+//51
 #include <stdio.h>
 void quick_sort(int[],int,int);
 int partition(int[],int,int);
@@ -50,3 +53,4 @@ int partition(int a[],int l,int u)
     a[j]=v;
     return(j);
 }
+OUTPUT
