@@ -1,3 +1,6 @@
+//Surya Merin Philip
+//S3D
+//51
 #include<stdio.h>
 int main()
 {
@@ -29,9 +32,4 @@ enter the elements:3
 7
 5
 1
-sorted order:1 2 3 5 7 ]0;user@user-Inspiron-15-3567: ~/Desktop/a[01;32muser@user-Inspiron-15-3567[00m:[01;34m~/Desktop/a[00m$ exit
-exit
-
-Script done on 2018-11-29 23:17:54+0530
-	
-	
+sorted order:1 2 3 5 7 
