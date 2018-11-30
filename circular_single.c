@@ -1,3 +1,6 @@
+//Surya Merin Philip
+//S3D
+//51
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -120,8 +123,6 @@ void main()
     }while(cho==1 || cho==2 || cho==3 || cho==4 || cho==5);
 }
 OUTPUT
-Script started on 2018-11-29 23:25:21+0530
-]0;user@user-Inspiron-15-3567: ~/Desktop/a[01;32muser@user-Inspiron-15-3567[00m:[01;34m~/Desktop/a[00m$ exit./a.out
 
 MENU
 1.Insertion (end)
@@ -191,7 +192,3 @@ MENU
 5.Display
 6.Exit
 Enter choice:0
-]0;user@user-Inspiron-15-3567: ~/Desktop/a[01;32muser@user-Inspiron-15-3567[00m:[01;34m~/Desktop/a[00m$ exit
-exit
-
-Script done on 2018-11-29 23:26:08+0530
