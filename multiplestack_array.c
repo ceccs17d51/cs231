@@ -1,3 +1,10 @@
+
+//Surya Merin Philip
+//S3D
+//51
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -82,3 +89,107 @@ void main()
     }while(cho==1 || cho==2 || cho==3 || cho==4 ||cho==5 || cho==6);
     
 }
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 1
+enter the element: 4
+element pushed!!!
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 1
+enter the element: 5
+element pushed!!!
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 1
+enter the element: 8
+element pushed!!!
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 2
+popped out: 8
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 3
+elements: 5 |->4 |->NULL
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 2
+popped out: 5
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 4
+enter the element: 6
+element pushed!!!
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 2
+popped out: 4
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 5
+popped out: 6
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 6
+elements: NULL
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 7
+]0;user@user-Inspiron-15-3567: ~/Desktop/a[01;32muser@user-Inspiron-15-3567[00m:[01;34m~/Desktop/a[00m$ exu[Kit
+exit
