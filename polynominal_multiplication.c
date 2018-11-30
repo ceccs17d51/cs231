@@ -1,3 +1,8 @@
+//Surya Merin Philip
+//S3D
+//51
+
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -146,3 +151,26 @@ void main()
     printf("0\n");
 
 }
+OUTPUT
+First Polynomial 
+Enter coefficient: 3
+Enter exponent: 2
+1. Add more elements
+2. Continue
+Enter choice: 1
+Enter coefficient: 4
+Enter exponent: 1 3
+1. Add more elements
+2. Continue
+Enter choice: 2
+
+
+Second polynomial 
+Enter coefficient: 5
+Enter exponent: 2
+1. Add more elements
+2. Continue
+Enter choice: 4
+F(p) = 3 p2 + 4 p3 + 0
+F(q) = 5 q2 + 0
+F(r) = 15 r4 + 20 r5 + 0
