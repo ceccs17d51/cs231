@@ -1,4 +1,7 @@
-#include <stdio.h>
+
+//Surya Merin Philip
+//S3D
+//51#include <stdio.h>
 int main()
 {
 	int a[30],temp[30],i,j,k,n,size,l1,h1,l2,h2;
