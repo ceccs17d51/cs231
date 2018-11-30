@@ -1,3 +1,6 @@
+//Surya Merin Philip
+//S3D
+//51
 #include <stdio.h>
 
 int stack[100], n=100, top;
@@ -58,23 +61,15 @@ int main() {
 		}
 	} while (ans != '4');
 }
-output
-	Stack Using array
-1. Push
-2. Pop
-3. Display
-4. Exit
-Enter your choice : 5
-Invalid choice.
-
+OUTPUT
 
 	Stack Using array
 1. Push
 2. Pop
 3. Display
 4. Exit
-Enter your choice : 6
-Invalid choice.
+Enter your choice : 1
+Enter data to be pushed : 2
 
 
 	Stack Using array
@@ -82,8 +77,17 @@ Invalid choice.
 2. Pop
 3. Display
 4. Exit
-Enter your choice : 7
-Invalid choice.
+Enter your choice : 1
+Enter data to be pushed : 7
+
+
+	Stack Using array
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice : 2
+Popped element is 7
 
 
 	Stack Using array
@@ -95,8 +99,15 @@ Enter your choice : 3
 
 
 Stack contents
-3
+2
 
+	Stack Using array
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice : 1
+Enter data to be pushed : 2
 
 
 	Stack Using array
@@ -104,9 +115,26 @@ Stack contents
 2. Pop
 3. Display
 4. Exit
-Enter your choice : 4
-Invalid choice.
-]0;user@user-Inspiron-15-3567: ~/Desktop/a[01;32muser@user-Inspiron-15-3567[00m:[01;34m~/Desktop/a[00m$ exit
-exit
+Enter your choice : 1
+Enter data to be pushed : 7
 
-Script done on 2018-11-29 23:04:43+0530
+
+	Stack Using array
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice : 2
+Popped element is 7
+
+
+	Stack Using array
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice : 3
+
+
+Stack contents
+2
