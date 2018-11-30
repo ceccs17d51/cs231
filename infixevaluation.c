@@ -1,3 +1,6 @@
+//Surya Merin Philip
+//S3D
+//51
 #include <stdio.h>
 #include <stdlib.h>
 int power(int base, int exponent) {
