@@ -1,3 +1,6 @@
+//Surya Merin Philip
+//S3D
+//51
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -384,9 +387,4 @@ Empty
 9. Delete all
 0. Exit
 Enter your choice : 0
-
-]0;user@user-Inspiron-15-3567: ~/Desktop/a[01;32muser@user-Inspiron-15-3567[00m:[01;34m~/Desktop/a[00m$ exit
-exit
-
-Script done on 2018-11-29 23:20:58+0530
 
