@@ -1,4 +1,7 @@
-#include<stdio.h>
+
+//Surya Merin Philip
+//S3D
+//51#include<stdio.h>
 int main()
 {
 	int a[100],i,n,key;
