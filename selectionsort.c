@@ -1,3 +1,6 @@
+//Surya Merin Philip
+//S3D
+//51
 #include<stdio.h>
 int main()
 {
@@ -29,3 +32,17 @@ int main()
    		 printf("%d\n",array[i]);
  	 return 0;
 }
+OUTPUT
+Enter number of elements
+5
+Enter integers:2
+4
+6
+1
+9
+Sorted list in ascending order:
+1
+2
+4
+6
+9
