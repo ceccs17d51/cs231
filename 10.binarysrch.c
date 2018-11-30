@@ -1,3 +1,6 @@
+//Surya Merin Philip
+//S3D
+//51
 #include<stdio.h>
 int main()
 {
@@ -35,7 +38,6 @@ int main()
 
 OUTPUT
 Script started on 2018-11-29 23:10:41+0530
-]0;user@user-Inspiron-15-3567: ~/Desktop/a[01;32muser@user-Inspiron-15-3567[00m:[01;34m~/Desktop/a[00m$ exit./a.out
 Enter number of elements:4
 Enter array elements8
 6
@@ -44,7 +46,5 @@ Enter array elements8
 
 Enter the element to search:6
 
-Element found at position 2]0;user@user-Inspiron-15-3567: ~/Desktop/a[01;32muser@user-Inspiron-15-3567[00m:[01;34m~/Desktop/a[00m$ exit
-exit
-
+Element found at position 2]0;
 Script done on 2018-11-29 23:11:12+0530
