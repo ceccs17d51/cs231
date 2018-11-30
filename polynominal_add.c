@@ -1,3 +1,6 @@
+//Surya Merin Philip
+//S3D
+//51
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -151,3 +154,33 @@ void main()
     printf("0\n");
 
 }
+OUTPUT
+First Polynomial 
+Enter coefficient: 4
+Enter exponent: 2
+1. Add more elements
+2. Continue
+Enter choice: 1
+Enter coefficient: 3
+Enter exponent: 3
+1. Add more elements
+2. Continue
+Enter choice: 2
+
+
+Second polynomial 
+Enter coefficient: 6
+Enter exponent: 2
+1. Add more elements
+2. Continue
+Enter choice: 1
+Enter coefficient: 1
+Enter exponent: 1
+1. Add more elements
+2. Continue
+Enter choice: 2
+
+result = p1 + p2
+p1 = 4 x^2 + 3 x^3 + 0
+p2 = 6 x^2 + 1 x^1 + 0
+result = 10 x^2 + 3 x^3 + 1 x^1 + 0
