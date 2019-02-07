@@ -1,0 +1,150 @@
+Script started on Thursday 07 February 2019 11:01:11 AM IST
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$ ls-l
+ls-l: command not found
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$ ls -l
+total 72
+-rw-rw-r-- 1 s4d2 s4d2    9 Feb  7 10:14 abc.txt
+-rw-rw-r-- 1 s4d2 s4d2 3385 Feb  7 10:59 ceccs17d51.07.02.19
+-rw-rw-r-- 1 s4d2 s4d2    0 Feb  7 11:01 ceccsd51
+-rw-rw-r-- 1 s4d2 s4d2 8192 Feb  7 10:58 ceccsd51.07.02.19
+drwxr-xr-x 2 s4d2 s4d2 4096 Feb  7 09:23 [0m[01;34mDesktop[0m
+drwxr-xr-x 2 s4d2 s4d2 4096 Feb  7 09:23 [01;34mDocuments[0m
+drwxr-xr-x 2 s4d2 s4d2 4096 Feb  7 09:42 [01;34mDownloads[0m
+-rw-r--r-- 1 s4d2 s4d2 8980 Feb  7 09:19 examples.desktop
+-rw-rw-r-- 1 s4d2 s4d2  120 Feb  7 09:49 foss.txt
+-rw-rw-r-- 1 s4d2 s4d2   22 Feb  7 09:51 letters.txt
+drwxr-xr-x 2 s4d2 s4d2 4096 Feb  7 09:23 [01;34mMusic[0m
+-rw-rw-r-- 1 s4d2 s4d2    8 Feb  7 09:51 num.txt
+drwxr-xr-x 2 s4d2 s4d2 4096 Feb  7 09:23 [01;34mPictures[0m
+drwxr-xr-x 2 s4d2 s4d2 4096 Feb  7 09:23 [01;34mPublic[0m
+drwxr-xr-x 2 s4d2 s4d2 4096 Feb  7 09:23 [01;34mTemplates[0m
+-rw-rw-r-- 1 s4d2 s4d2    0 Feb  7 11:00 typescript
+drwxr-xr-x 2 s4d2 s4d2 4096 Feb  7 09:23 [01;34mVideos[0m
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$ ls -lt
+total 72
+-rw-rw-r-- 1 s4d2 s4d2    0 Feb  7 11:01 ceccsd51
+-rw-rw-r-- 1 s4d2 s4d2    0 Feb  7 11:00 typescript
+-rw-rw-r-- 1 s4d2 s4d2 3385 Feb  7 10:59 ceccs17d51.07.02.19
+-rw-rw-r-- 1 s4d2 s4d2 8192 Feb  7 10:58 ceccsd51.07.02.19
+-rw-rw-r-- 1 s4d2 s4d2    9 Feb  7 10:14 abc.txt
+-rw-rw-r-- 1 s4d2 s4d2   22 Feb  7 09:51 letters.txt
+-rw-rw-r-- 1 s4d2 s4d2    8 Feb  7 09:51 num.txt
+-rw-rw-r-- 1 s4d2 s4d2  120 Feb  7 09:49 foss.txt
+drwxr-xr-x 2 s4d2 s4d2 4096 Feb  7 09:42 [0m[01;34mDownloads[0m
+drwxr-xr-x 2 s4d2 s4d2 4096 Feb  7 09:23 [01;34mDesktop[0m
+drwxr-xr-x 2 s4d2 s4d2 4096 Feb  7 09:23 [01;34mDocuments[0m
+drwxr-xr-x 2 s4d2 s4d2 4096 Feb  7 09:23 [01;34mMusic[0m
+drwxr-xr-x 2 s4d2 s4d2 4096 Feb  7 09:23 [01;34mPictures[0m
+drwxr-xr-x 2 s4d2 s4d2 4096 Feb  7 09:23 [01;34mPublic[0m
+drwxr-xr-x 2 s4d2 s4d2 4096 Feb  7 09:23 [01;34mTemplates[0m
+drwxr-xr-x 2 s4d2 s4d2 4096 Feb  7 09:23 [01;34mVideos[0m
+-rw-r--r-- 1 s4d2 s4d2 8980 Feb  7 09:19 examples.desktop
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$ ls -ltr
+total 80
+-rw-r--r-- 1 s4d2 s4d2  8980 Feb  7 09:19 examples.desktop
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [0m[01;34mVideos[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mTemplates[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mPublic[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mPictures[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mMusic[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mDocuments[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mDesktop[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:42 [01;34mDownloads[0m
+-rw-rw-r-- 1 s4d2 s4d2   120 Feb  7 09:49 foss.txt
+-rw-rw-r-- 1 s4d2 s4d2     8 Feb  7 09:51 num.txt
+-rw-rw-r-- 1 s4d2 s4d2    22 Feb  7 09:51 letters.txt
+-rw-rw-r-- 1 s4d2 s4d2     9 Feb  7 10:14 abc.txt
+-rw-rw-r-- 1 s4d2 s4d2  3385 Feb  7 10:59 ceccs17d51.07.02.19
+-rw-rw-r-- 1 s4d2 s4d2     0 Feb  7 11:01 ceccsd51
+-rw-rw-r-- 1 s4d2 s4d2 12288 Feb  7 11:01 typescript
+-rw-rw-r-- 1 s4d2 s4d2 12288 Feb  7 11:01 ceccsd51.07.02.19
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$ ls -abc[K *.txt
+abc.txt  foss.txt  letters.txt  num.txt
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$ alo[Kias|| ||[C[C="[K'ls -al'
+alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias grep='grep --color=auto'
+alias l='ls -CF'
+alias la='ls -A'
+alias ll='ls -alF'
+alias ls='ls --color=auto'
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$ unalias ||
+> 
+> ^C
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$ sort -3num num[C[C[C.txt
+sort: invalid option -- '3'
+Try 'sort --help' for more information.
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$ paste a.txt b.txt
+paste: a.txt: No such file or directory
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$ grep -E 'abc/xyz'num.txt
+cat>    ^C
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$ cat>[K>[C[K[K[K[Kscript [K[K[K[K[K[K[Kscript
+Script started, file is typescript
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$ script ceccs17d
+Script started, file is ceccs17d
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$ ls
+abc.txt              ceccsd51           [0m[01;34mDocuments[0m         foss.txt     num.txt   [01;34mTemplates[0m
+ceccs17d             ceccsd51.07.02.19  [01;34mDownloads[0m         letters.txt  [01;34mPictures[0m  typescript
+ceccs17d51.07.02.19  [01;34mDesktop[0m            examples.desktop  [01;34mMusic[0m        [01;34mPublic[0m    [01;34mVideos[0m
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$ ls -l
+total 80
+-rw-rw-r-- 1 s4d2 s4d2     9 Feb  7 10:14 abc.txt
+-rw-rw-r-- 1 s4d2 s4d2     0 Feb  7 11:11 ceccs17d
+-rw-rw-r-- 1 s4d2 s4d2  3385 Feb  7 10:59 ceccs17d51.07.02.19
+-rw-rw-r-- 1 s4d2 s4d2  4096 Feb  7 11:04 ceccsd51
+-rw-rw-r-- 1 s4d2 s4d2 12288 Feb  7 11:01 ceccsd51.07.02.19
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [0m[01;34mDesktop[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mDocuments[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:42 [01;34mDownloads[0m
+-rw-r--r-- 1 s4d2 s4d2  8980 Feb  7 09:19 examples.desktop
+-rw-rw-r-- 1 s4d2 s4d2   120 Feb  7 09:49 foss.txt
+-rw-rw-r-- 1 s4d2 s4d2    22 Feb  7 09:51 letters.txt
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mMusic[0m
+-rw-rw-r-- 1 s4d2 s4d2     8 Feb  7 09:51 num.txt
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mPictures[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mPublic[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mTemplates[0m
+-rw-rw-r-- 1 s4d2 s4d2     0 Feb  7 11:11 typescript
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mVideos[0m
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$ ls -lt
+total 84
+-rw-rw-r-- 1 s4d2 s4d2 16384 Feb  7 11:11 typescript
+-rw-rw-r-- 1 s4d2 s4d2     0 Feb  7 11:11 ceccs17d
+-rw-rw-r-- 1 s4d2 s4d2  4096 Feb  7 11:04 ceccsd51
+-rw-rw-r-- 1 s4d2 s4d2 12288 Feb  7 11:01 ceccsd51.07.02.19
+-rw-rw-r-- 1 s4d2 s4d2  3385 Feb  7 10:59 ceccs17d51.07.02.19
+-rw-rw-r-- 1 s4d2 s4d2     9 Feb  7 10:14 abc.txt
+-rw-rw-r-- 1 s4d2 s4d2    22 Feb  7 09:51 letters.txt
+-rw-rw-r-- 1 s4d2 s4d2     8 Feb  7 09:51 num.txt
+-rw-rw-r-- 1 s4d2 s4d2   120 Feb  7 09:49 foss.txt
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:42 [0m[01;34mDownloads[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mDesktop[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mDocuments[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mMusic[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mPictures[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mPublic[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mTemplates[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mVideos[0m
+-rw-r--r-- 1 s4d2 s4d2  8980 Feb  7 09:19 examples.desktop
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$ ls -ltr
+total 92
+-rw-r--r-- 1 s4d2 s4d2  8980 Feb  7 09:19 examples.desktop
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [0m[01;34mVideos[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mTemplates[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mPublic[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mPictures[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mMusic[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mDocuments[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:23 [01;34mDesktop[0m
+drwxr-xr-x 2 s4d2 s4d2  4096 Feb  7 09:42 [01;34mDownloads[0m
+-rw-rw-r-- 1 s4d2 s4d2   120 Feb  7 09:49 foss.txt
+-rw-rw-r-- 1 s4d2 s4d2     8 Feb  7 09:51 num.txt
+-rw-rw-r-- 1 s4d2 s4d2    22 Feb  7 09:51 letters.txt
+-rw-rw-r-- 1 s4d2 s4d2     9 Feb  7 10:14 abc.txt
+-rw-rw-r-- 1 s4d2 s4d2  3385 Feb  7 10:59 ceccs17d51.07.02.19
+-rw-rw-r-- 1 s4d2 s4d2  4096 Feb  7 11:04 ceccsd51
+-rw-rw-r-- 1 s4d2 s4d2     0 Feb  7 11:11 ceccs17d
+-rw-rw-r-- 1 s4d2 s4d2 16384 Feb  7 11:11 ceccsd51.07.02.19
+-rw-rw-r-- 1 s4d2 s4d2 16384 Feb  7 11:11 typescript
+]0;s4d2@CC2-28: ~s4d2@CC2-28:~$
